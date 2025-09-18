@@ -1,0 +1,5 @@
+{
+  "name": "DevAI Toolkit",
+  "description": "An AI-powered assistant to help developers with common tasks like code generation, refactoring, writing tests, and creating changelogs. Boost your productivity with the power of Gemini.",
+  "requestFramePermissions": []
+}
